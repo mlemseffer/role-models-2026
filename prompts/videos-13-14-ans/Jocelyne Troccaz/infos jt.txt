@@ -1,0 +1,307 @@
+Jocelyne Troccaz, née en 1959 en Haute-Savoie est une chercheuse en informatique française. Elle est spécialisée dans l’imagerie et la robotique médicale pour la chirurgie assistée par ordinateur[1],[2].
+
+Biographie
+Études
+Jocelyne Troccaz passe son baccalauréat scientifique en 1976. Elle obtient un DEUG en maths-physique en 1979. Elle passe ensuite sa licence d'informatique en 1980 et sa maîtrise en 1981. En 1982, elle effectue un DEA en informatique à l'Institut polytechnique de Grenoble.
+
+En 1986, elle soutient sa thèse de doctorat en informatique sous la direction de Jean-Claude Latombe (en) et Christian Laugier dans ce même institut. En juillet-août 1987, elle effectue un stage postdoctoral au laboratoire de robotique de l'université Stanford.
+
+En 1993, elle obtient son habilitation à diriger les recherches à l'Institut National Polytechnique de Grenoble avec comme spécialité "informatique et mathématiques appliquées".
+
+En 2000, elle passe une licence de psychologie à l'université Lumière-Lyon-II[1].
+
+Carrière
+De 1984 à 1988, elle est assistante universitaire à l'université Joseph-Fourier (devenue aujourd'hui l'université Grenoble-Alpes). En 1988, elle entre au CNRS en tant que chargée de recherche. Elle s'intéresse tout d'abord à la programmation robotique. Cette première période de sa carrière se déroule dans l'équipe "Intelligence Artificielle, Vision et Robotique" de l'IMAG puis du laboratoire LIFIA.
+
+En 1990, elle rejoint le laboratoire TIMC-IMAG (alors appelé TIM3), un laboratoire CNRS de Technologies pour la Santé à l'Université de Grenoble, implanté à l'intérieur du CHU. Elle commence à s'intéresser à la robotique médicale pour la chirurgie assistée par ordinateur[3].
+
+En 1998, elle y devient directrice de recherche. Elle est également enseignante vacataire à l'université de Grenoble. De 1996 à 2013 elle dirige l'équipe "Gestes Médico-Chirurgicaux Assistés par Ordinateur" du laboratoire TIMC-IMAG. De janvier 2006 à décembre 2015, elle est directrice adjointe du laboratoire TIMC-IMAG. Elle dirige le LabEx national CAMI de 2016 à fin 2022. Elle est directrice de recherche CNRS de classe exceptionnelle depuis octobre 2017[4].
+
+Elle est nommée membre de l'Académie des sciences en décembre 2022[5] au titre de l'inter-section "applications des sciences" et est rattachée à la section "Sciences mécaniques et informatiques".
+
+Retraitée en mars 2024, elle devient Directrice de Recherche Emérite au CNRS, toujours au laboratoire TIMC.
+
+Vie privée
+Elle est mariée et a un enfant[4].
+
+Honneurs et distinctions
+2010 : Élue Fellow de la société Medical Image Analysis and Computer Assisted Interventions (MICCAI)[6]
+2013 : Prix de l’Académie Nationale de Chirurgie
+2014 : Membre de l'Académie Nationale de Chirurgie
+2015 : Médaille d’argent du CNRS[7]
+2016 : Chevalier de la Légion d'honneur Chevalier de la Légion d'honneur[8]
+2018 : Élue Fellow de l'Institute of Electrical and Electronics Engineers[4]
+2022 : Prix "impact durable" (MICCAI Enduring Impact Award) de la société MICCAI[9]
+2022 : Nomination à l'Académie des sciences[5]
+2023 : Officier de l'ordre national du Mérite Officier de l'ordre national du Mérite[10]
+
+Jocelyne Troccaz est née en 1959. Elle a soutenu sa thèse en informatique à l'Institut national
+polytechnique de Grenoble en 1986 ainsi que son Habilitation à diriger les recherches en 1993 dans
+la même université. Elle a été assistante de 1984 à 1988 à l'Université Joseph Fourier de Grenoble.
+Elle est entrée au CNRS en tant que chargée de recherche en 1988. Elle est Directrice de Recherche
+depuis 1998.
+Jusqu'en 1990, son activité de recherche concernait la robotique et, en particulier, la programmation
+automatique des robots pour des applications industrielles et spatiales. Elle a donné de nombreux
+séminaires invités (à CMU, MIT, Stanford, Berkeley, etc.) et elle a séjourné à Stanford University pour
+un court stage post-doctoral en 1987. Elle a changé de thématique en 1990 pour se tourner vers les
+applications médicales. Son activité de recherche personnelle dans le laboratoire TIMC-IMAG
+(Grenoble, France) concerne l’imagerie médicale et les applications médicales de la robotique. Par
+ailleurs, elle est ou a été responsable de différents projets de recherche clinique concernant
+principalement la radiothérapie, la chirurgie cardiaque, la chirurgie urologique, l’orthopédie. Elle a
+plus de 180 publications. Elle participe ou a participé à de nombreux comités de programmes de
+conférences internationales des différents domaines de recherche qu'elle a abordés. Elle est ou a été
+éditrice associée de plusieurs journaux internationaux (Journal of Computer-Aided Surgery, IEEE
+Transactions on Robotics and Automation, IEEE Transactions on Robotics) et est dans l’editorial board
+de l’International Journal of Medical Robotics and Computer-Assisted Surgery et Medical Image
+Analysis.
+De 1996 à 2013, elle a été responsable de l'équipe GMCAO (Gestes Médico-Chirurgicaux Assistés par
+Ordinateur) du laboratoire TIMC-IMAG dont elle est directrice adjointe depuis 2006.
+Elle a été élue « MICCAI fellow » en 2009, a été lauréate d’un Contrat Hospitalier de Recherche
+Translationnelle de l’INSERM de 2010 à 2013 avec le service d’urologie du CHU de Grenoble. En 2013,
+elle a reçu le Prix de l’Académie Nationale de Chirurgie et est membre libre de l’Académie Nationale
+de Chirurgie depuis 2014.
+
+Jocelyne TROCCAZ
+
+Née en 1959, France
+
+Mariée, un enfant
+
+ 
+
+Formation
+
+-      Habilitation à diriger les recherches spécialité "informatique et mathématiques appliquées", Institut National Polytechnique de Grenoble, Juin 1993
+
+-      Doctorat spécialité "informatique", Institut National Polytechnique de Grenoble, Mars 1986
+
+-      DEA informatique, mention B, Institut National Polytechnique de Grenoble, 1982
+
+-      Licence et Maîtrise d'informatique, (4 certificats dont 3 mentions AB et 1 mention B), 1980, 1981
+
+-      DEUG maths-physique, mention B, 1979
+
+-      Baccalauréat série C, mention AB, 1976
+
+-      Licence de Psychologie, Mention B, Université de Lyon2, 2000
+
+ 
+
+Statuts et fonctions
+
+-      Directrice de recherche Emérite CNRS depuis Mars 2024
+
+-      Directrice de recherche CNRS classe exceptionnelle d’Octobre 2017 à février 2024
+
+-      Directrice de recherche 1ère classe de 2007 à 2017; Directrice de recherche 2ème classe de 1998 à 2007; chargée de recherche 1ère classe de 1988 à 1998
+
+-      Responsable d’une équipe de recherche d’environ 35 personnes dans le domaine de l’imagerie et de la robotique médicales pour la chirurgie assistée par ordinateur de Septembre 1996 à Septembre 2013. Laboratoire TIMC-IMAG (Techniques de l’Imagerie de l’Ingénierie Médicale et de la Complexité – Informatique, Mathématiques, Applications, Grenoble) – UMR CNRS 5525. Cette responsabilité concernait l'animation et la coordination scientifique et la gestion financière et humaine de l'équipe.
+
+-      Directrice adjointe du laboratoire de janvier 2006 à décembre 2015.
+
+-      Enseignante vacataire depuis de le début de carrière. Nombreuses vacations régulières d'enseignement au CUEFA/CNAM, à l'Université de Grenoble Alpes, à Grenoble-INP (2ème et 3ème cycles universitaires), autres interventions dans d’autres formations (ENSAM, Polytech’Paris, etc.), écoles d’été ou dans le cadre de sociétés.
+
+-      Assistante à l’Université Grenoble Alpes (ex. Université Scientifique et Médicale de Grenoble) d’Octobre 1984 à Septembre 1988.
+
+-      Boursière du CNRS de 1982 à 1984 (bourse de thèse du Programme "Automatique et Robotique Avancées").
+
+ 
+
+Recherche : résumé des affectations
+
+-      Activité de recherche depuis 1990 dans le domaine de l’imagerie et de la Robotique médicales pour la chirurgie assistée par ordinateur. Laboratoire TIMC. Université Grenoble Alpes. Faculté de Médecine. Grenoble. Collaborations suivies avec le CHU de Grenoble.
+
+-      Stage post-doctoral, Eté 1987. Robotics Lab. Computer Science Dept. Stanford University, California
+
+-      Activité de recherche de 1982 à 1990 dans le domaine du raisonnement géométrique. Laboratoire LIFIA (Laboratoire d’Informatique Fondamentale et d’Intelligence Artificielle), Grenoble. Thèse préparée sous la direction de Jean-Claude LATOMBE et Christian LAUGIER.
+
+ 
+
+Autres
+
+-      Nominée comme Officier de l’Ordre National du Mérite (11/2023)
+
+-      Membre de l’Académie des Sciences (élections 2022)
+
+-      Enduring Impact Award (2022) de la société savante MICCAI “for [my] pioneering contributions to Medical Robotics and Computer Assisted Surgery and [my] major role in the formation and emergence of the MICCAI meeting and Society”
+
+-      IEEE Fellow (2018) “for contributions to robotics and imaging for medical applications”
+
+-      Chevalier de la légion d’Honneur (2016)
+
+-      Médaille d’Argent du CNRS 2015 (Institut INS2I)
+
+-      Membre libre de l’Académie Nationale de Chirurgie depuis 2014[i]
+
+-      Lauréate du Prix de l’Académie Nationale de Chirurgie 2013 (prix sans candidature « destiné à manifester l’intérêt par l’Académie de Chirurgie à tout travail portant sur un domaine autre que la chirurgie et apparaissant utile à la chirurgie ou à son exercice »)
+
+-      Lauréate d’un Contrat Hospitalier de Recherche Translationnelle de l’INSERM avec le CHU de Grenoble (Service d’Urologie) d’octobre 2010 à fin septembre 2013.
+
+-      MICCAI Fellow (2010) “for scientific contributions to computer-aided surgery and medical robotics and for promotion of the field through involvement in the MICCAI Society and related professional societies”
+
+Informaticienne française. Initialement spécialiste de la programmation automatique des robots, elle a rapidement ouvert ses problématiques de recherche au médical en intégrant la robotique aux gestes médicaux. Il s’agit de passer de l’analyse mathématique d’une image à un geste robotisé piloté par un chirurgien. La science-fiction devient réalité !
+
+Bref, avec Jocelyne Troccaz, les gestes chirurgicaux sont augmentés !
+
+
+Publié le22 janvier 2019
+Les robots à l’hôpital
+Jocelyne Troccaz est Directrice de recherche CNRS au Laboratoire « Techniques de l’ingénierie médicale et de la complexité – informatique, mathématiques et applications » de l’Université de Grenoble. Ses travaux concernent principalement la robotique et l’imagerie médicale et sont appliqués à des domaines cliniques variés. Ainsi, ses recherches sur l’aide à la biopsie de la prostate permettent le guidage plus précis de la ponction, améliorant la prise en charge du cancer de la prostate, de loin le plus fréquent chez l’homme. Ses travaux sont au cœur des activités de plusieurs start-up valorisant les travaux du laboratoire. Cet article est publié en collaboration avec The Conversation.
+
+Le robot médical par Saint-Oma
+
+Jocelyne Troccaz, site du CNRS
+B : Jocelyne, pourrais-tu nous parler de ton domaine de recherche ?
+
+JT : je travaille en informatique et en robotique, au service des gestes médico-chirurgicaux assistés par ordinateur. Il s’agit de concevoir, développer des systèmes, inventer des dispositifs pour aider les cliniciens lors de leurs interventions, pour le diagnostic, ou la thérapie. C’est prioritairement guidé par les besoins cliniques. On a les pieds dans la clinique et on espère aider les cliniciens à résoudre de vrais problèmes qu’ils rencontrent. Les domaines de l’informatique qui sont les plus pertinents dans mon travail sont le traitement d’images, du signal la robotique vue du côté de la programmation et de la modélisation et l’IHM.  L’IA aussi.
+
+B : comment en es-tu arrivée là ?
+
+JT : j’ai suivi une licence, une maîtrise et un DEA d’informatique. J’ai étudié l’intelligence artificielle avec Jean-Claude Latombe et Christian Laugier en particulier, le raisonnement géométrique pour comprendre et reproduire le mécanisme de la préhension d’objets par des robots. Il n’y avait là rien de médical. Après avoir soutenu ma thèse en 1986, je suis entrée au CNRS en 1988.  En 1990, je me suis réorientée en rejoignant un laboratoire CNRS de Technologies pour la Santé à l’Université de Grenoble, TIMC, physiquement implanté à l’intérieur du CHU. C’est là que j’ai rencontré le domaine médical et j’ai découvert que c’était à cela que je désirais consacrer mon énergie et ma créativité. Je me suis même posé la question d’entreprendre des études de médecine. Je ne l’ai pas fait, mais j’en ai appris suffisamment pour comprendre les problèmes cliniques et essayer de trouver des solutions.
+
+B : qu’est ce qui est spécifique à la robotique médicale ?
+
+JT : les êtres humains. Pendant ma thèse, quand on mettait des robots en marche, tout le monde se tenait à distance car c’était potentiellement dangereux. À TIMC, l’une des premières interventions que j’ai vues, c’était un bras robotisé qui passait à dix centimètres de la tête d’un patient, j’étais effarée. Le robot est à côté, voire à l’intérieur du patient. Les cliniciens sont tout proches. De plus, les tâches qu’on va faire faire au robot ne sont pas stéréotypées comme dans une ligne d’assemblage. Chaque patient est un cas particulier ; parfois aussi, les organes bougent ou se déforment, et le robot doit s’adapter en permanence. Et puis, un bloc opératoire est un environnement très contraint en termes d’espace, avec des contraintes de propreté, des contraintes électromagnétiques, etc., et toute une batterie de règlements auxquels il faut obéir.
+
+crédits: KOELIS) : Utilisation de la fusion d’images en urologie pour les biopsies de prostate : visualisation per-opératoire d’une zone cible (en rouge) et de la forme de la prostate (maillage) issues de l’IRM préopératoire ainsi que des biopsies déjà réalisées (cylindres verts, jaunes et rouges).
+crédits: KOELIS : Utilisation de la fusion d’images en urologie pour les biopsies de prostate : visualisation per-opératoire d’une zone cible (en rouge) et de la forme de la prostate (maillage) issues de l’IRM préopératoire ainsi que des biopsies déjà réalisées (cylindres verts, jaunes et rouges)
+ 
+
+B : ce sont toutes ces contraintes qui guident les comportements des robots ?
+
+JT : les images du patient sont à la base des décisions. Il faut être capable d’y lier la planification des gestes. Il faut fusionner des informations provenant de plusieurs sources, modéliser des processus de déformation des organes sur lesquels on agit. On utilise des capteurs, mais on utilise aussi des modèles statistiques, biomécaniques, ou mixtes. Il faut également gérer les interactions entre l’utilisateur et le robot.
+
+Et d’autres problématiques peuvent intervenir. Par exemple, pour des minirobots qui vont dans le corps du patient et peuvent y demeurer, on a la question des sources d’énergie. On travaille sur un tel robot et on se propose de lui fournir de l’énergie en utilisant les ressources du corps humain (sucre, ions, etc.). On fait coexister biologie et robotique.
+
+C’est par exemple, le M2A, un objet autonome à peu près de la taille d’un gros antibiotique. Le patient l’avale ; dedans il y a une caméra, de la lumière, des batteries ; ce dispositif prend des images de l’intérieur du tractus digestif, et périodiquement les envoie à un boîtier qui se trouve à la ceinture du patient. C’est utile pour des examens endoscopiques, en particulier pour la zone médiane de l’intestin qu’il est difficile à atteindre par moyen classique. Ce type de système est passif et de nombreuses équipes cherchent à pouvoir en contrôler la trajectoire.
+
+B : quels sont les grands défis de ta discipline ?
+
+JT : un défi est la question de l’autonomie décisionnelle des robots. Par exemple, en radiothérapie, on délivre des rayons X sur une tumeur, et plus il y a des incidences nombreuses avec des petits faisceaux, plus vous pouvez être précis. C’est comme faire de la peinture avec un rouleau ou avec un pinceau fin.  Un robot nommé Cyberknife  existe actuellement en radiothérapie, et il porte un système d’irradiation. À ce robot, les chercheurs ont ajouté la capacité de suivre la respiration du patient. Quand on respire, la tumeur bouge. Ils ont développé un modèle qui corrèle le mouvement  facilement détectable de la cage thoracique avec celui de la tumeur, et le robot utilise cela pendant le traitement pour mieux diriger les radiations vers celle-ci.  Avec une telle autonomie de prise de décision, il faut garantir la sécurité ; le partage des prises de décision avec un opérateur humain devient un défi important. Aujourd’hui, l’homme décide, le robot réalise. Mais on assiste à un début de glissement : le robot décide certaines choses. Plus on aura des robots qui agissent de manière un peu autonome sur des tissus mous où tout n’est pas modélisable a priori, plus ces questions se poseront.
+
+Un autre défi, qui n’est pas spécifiquement lié à la robotique, c’est de pouvoir démontrer une valeur ajoutée clinique. Qu’on développe un dispositif, un robot, ou une méthode de traitement d’images médicales, il faut en faire une évaluation technique : cela doit être correct, répétable, et conforme à ce qu’on devrait avoir. Mais il faut aussi démontrer un bénéfice clinique : par exemple, il y a moins d’effets secondaires, ou le patient passe moins de temps à l’hôpital, ou ça coûte moins cher, etc. Ce n’est pas toujours simple. Par exemple on parle beaucoup du robot médical Da Vinci, mais il coûte très cher et en ce qui concerne son bénéfice clinique pour les patients, les études sont contradictoires. Par contre, il est certain que la formation des cliniciens à la technique de laparoscopie est beaucoup plus simple et rapide avec ce robot.
+
+Il y a des difficultés spécifiques au travail avec des cliniciens. Quand on travaille avec des gens d’un domaine différent du sien, il peut être difficile de se comprendre. Déjà, il y a le problème du vocabulaire : la première année, je ne comprenais rien au jargon médical.  On finit par apprendre et on découvre alors le plaisir d’interagir avec des personnes d’une culture très différente. C’est une chance et une richesse d’avoir un labo si proche des cliniciens du CHU.
+
+B : n’y a-t-il pas un risque, pour l’humain, d’être dessaisi du pouvoir décisionnel, de se retrouver juste là à admirer ce que fait le robot ?
+
+JT : de mon point de vue, l’idée n’est pas de remplacer le clinicien. Pour les choses que nous faisons bien, ce n’est pas la peine de remplacer l’humain par une machine ; il y a beaucoup de choses que l’humain fait mieux que le robot. Pour la dextérité, les gestes fins de l’humain peuvent être excellents grâce à sa perception haptique. Pour l’intelligence, l’humain est très bon en ses capacités d’analyse et de prise de décision surtout dans des conditions critiques.  Il faut voir ces dispositifs comme le moyen de faire faire aux robots des choses que nous ne faisons pas bien nous-mêmes ou avec des moyens non robotisés. Aujourd’hui, si on confie des tâches à un robot qui travaille de manière autonome, ce sont des tâches encore limitées ; par exemple, quand le robot se synchronise sur la respiration du patient pour la radiothérapie.
+
+Évidemment, je parle de la situation actuelle, mais avec le deep learning et les évolutions futures, il y aura sans doute de plus en plus de tâches et des tâches de plus en plus complexes qui seront déléguées à des machines. En tout cas, ce qui me semble fondamental, c’est que si un robot prend des décisions, il puisse les expliquer aux humains qui l’accompagne et que ces méthodes permettent l’interaction et la prise de décision conjointe.
+
+
+Crédits: CHU Grenoble Alpes : Utilisation d’un robot porte-endoscope contrôlé par commande vocale. Le dispositif développé au laboratoire TIMC a été industrialisé par la société Endocontrol Medical
+B : de ta formation initiale, qu’est ce qui t’a été utile pour ta recherche ?
+
+JT : à l’époque, en informatique, on apprenait surtout à programmer, à faire de l’algorithmique. Ça apprend à réfléchir de manière méthodique, et structurée c’est extrêmement important. On enseignait aussi les algorithmes numériques, qui ne me passionnaient pas, mais je le regrette un peu, car ça m’est utile tous les jours. Mes cours d’électronique, je ne suis pas sûre que ça m’ait servi à grand-chose. Globalement, je crois que ma formation m’a assez bien préparée. Et puis, on apprend beaucoup « sur le tas » : la robotique, je l’ai apprise en faisant ma recherche parce qu’elle n’était pas encore enseignée. Par contre, les mathématiques de base, les manipulations de matrices par exemple, c’est évidemment indispensable et ça, il vaut mieux l’avoir appris dans ses études. Peut-être une chose qui m’a manquée, c’est  d’apprendre une méthodologie expérimentale, pour concevoir une expérience, analyser ses résultats, comprendre ce qui ne marche pas. J’ai surtout appris cela « sur le tas ».
+
+B :  apprendre « la robotique », qu’est-ce que ça veut dire ?
+
+JT : dans mon premier laboratoire, on travaillait sur les aspects algorithmiques de la robotique, la modélisation géométrique, la prise de décision. En arrivant à TIMC, je m’imaginais connaitre la robotique, mais j’y ai découvert d’autres aspects indispensables : la calibration de robot, la préparation de manips, le contrôle de plus bas niveau du robot et bien évidemment l’imagerie qui nourrit la planification du robot. Ce que j’aime dans la robotique, c’est la diversité des tâches et des disciplines concernées. Nous écrivons beaucoup de programmes informatiques. Mais, il nous arrive aussi de concevoir des robots, c’est à dire d’inventer des dispositifs nouveaux d’un point de vue architectural, d’un point de vue physique, introduisant de nouvelles formes d’interactions avec les humains. On va jusqu’à la réalisation de ces dispositifs, y compris leur mise en œuvre clinique.
+
+B :  quelles sont des choses que tu as faites et dont tu es particulièrement fière ?
+
+JT : je suis fière de travaux sur la « co-manipulation » réalisés dans les années 90 que j’appelais « robotique synergique » et qui étaient très innovants. L’outil est porté par le robot mais tenu également par l’opérateur humain. Ainsi le robot peut « filtrer » les mouvements proposés par l’opérateur. Cela permet de faire cohabiter planification globale et ajustement local, assistance robotisée et sécurité car le clinicien est « dans la boucle ». Cette approche intéresse beaucoup les cliniciens.
+
+Les autres choses dont je suis le plus fière sont les systèmes qu’on est arrivé à amener jusqu’à une utilisation clinique.  Il n’y a rien de plus gratifiant que de voir son propre système utilisé sur des patients en routine clinique. Par exemple, je travaille avec le CHU de Grenoble et la Pitié-Salpêtrière sur le cancer de la prostate depuis longtemps, du point de vue à la fois du diagnostic et du traitement.
+
+Côté diagnostic, pour faire une biopsie de la prostate, il y a des carottes de tissu qui sont prélevées puis examinées au microscope. Ces biopsies sont faites sous contrôle échographique, avec une sonde mise dans le rectum du patient. Or la prostate est un peu comme une châtaigne, et quand on bouge la sonde ça bouge la prostate ; du coup ce n’est pas très facile de savoir où est faite la biopsie. En cas de cancer, la recommandation en France, c’est de faire 12 biopsies, les « mieux réparties possibles » dans la prostate.  Comment vous faites pour bien les répartir ? L’idée qui a germé a été de développer des méthodes de fusion de données ultrasonores, échographie et IRM. On travaille en 3D. On a développé des méthodes de recalage d’image pour s’orienter dans l’espace. J’ai eu la chance d’avoir deux étudiants en thèse brillants, l’un urologue et l’autre d’une école d’ingénieur sur ce thème. Les méthodes de recalage en trois dimensions se sont avérées robustes et complètement automatiques. Cela a débouché sur un dispositif industriel de la société KOELIS. Plus de 250 000 patients ont maintenant eu des biopsies avec ce dispositif, dans 20 pays, sur 4 continents.
+
+Au début, certains urologues disaient que ça ne servait à rien, qu’ils se débrouillaient bien sans, mais leur point de vue a évolué. La chirurgie peut avoir des effets secondaires graves d’incontinence ou d’impuissance, et les gens se posent donc beaucoup de questions sur la décision de traitement et son type, alors si on sait mieux faire les biopsies, on peut faire un traitement plus adapté. Les gens ont commencé à dire qu’au lieu d’enlever la prostate toute entière, si on localise mieux le cancer, on peut n’enlever qu’une partie de la prostate. On était dans une phase d’évolution de la pratique clinique et l’outil développé allait dans le sens de cette évolution. Il est maintenant très bien accueilli.
+
+L’informatique s’est rendue indispensable à la médecine. On a construit les premiers scanners il y a cinquante ans. Le scanner n’existerait pas sans l’informatique. Les dispositifs d’imagerie qui sont capables de reconstruire une image en trois dimensions à partir de radios n’auraient pas d’existence s’il n’y avait pas de tomographie.
+
+B :  comment vois-tu une bonne formation d’étudiants ?
+
+JT : pour ce qui est de l’informatique, ce serait bien si les élèves avec un master d’informatique avaient une formation un peu plus homogène. C’est génial de picorer des choses à droite à gauche, mais ça rend leur intégration plus difficile pour nous, car les étudiants peuvent avoir le diplôme et avoir des lacunes importantes sur des aspects basiques de l’informatique.
+
+Pour ce qui est de la formation en médecine, on voit se développer des simulateurs informatisés pour la médecine et la chirurgie. Les étudiants ne pratiquent plus une opération la première fois directement sur un corps vivant ou sur un cadavre, ils s’entrainent sur des simulateurs. L’informatique est utile pour cela aussi.
+
+On a développé un simulateur de biopsie, pour enseigner aux étudiants à faire des biopsies sur simulateurs avant de les leur faire réaliser sur des patients. Pour la biopsie de la prostate, il y a eu une expérimentation avec deux groupes d’étudiants en médecine, un groupe avec une formation traditionnelle sur cadavre, et un groupe formé sur le simulateur. Le groupe formé avec simulateur était vraiment meilleur.
+
+La recherche à l’interface entre santé et informatique est passionnante. La plupart de nos étudiants attrapent très vite la fibre. Même si parfois, les challenges posés à l’informatique sont hyper intéressants et que cela peut conduire à des résultats fondamentaux, nous sommes également très motivés par la résolution de questions posées par la santé.
+
+Serge Abiteboul, Inria & ENS, Paris, Claire Mathieu, CNRS & Univ. Paris VII
+
+Ouvrages identifiés
+1. Robotique médicale (sous la direction de Jocelyne Troccaz)
+
+Publié en février 2012, aux éditions Hermes Science Publications (Collection IC2 Systèmes automatisés) 
+Newsroom - Université Grenoble Alpes
++13
+Decitre
++13
+Collège de France
++13
+.
+
+C’est un état de l’art complet portant sur :
+
+l’historique de la robotique médicale,
+
+ses spécificités et applications cliniques maturées,
+
+la conception et commande des robots médicaux (vision, interaction, télémanipulation, co-manipulation),
+
+la robotique intracorporelle et l’évaluation clinique de dispositifs 
+Fnac
++12
+Decitre
++12
+academie-sciences.fr
++12
+.
+
+Une édition en anglais, Medical Robotics, paraît également en mars 2012 
+Google Scholar
++7
+Amazon
++7
+Chasse aux Livres
++7
+.
+
+2. Gestes médico-chirurgicaux assistés par ordinateur : outils et applications
+
+Édition Surgetica 2005, dirigée par Jocelyne Troccaz et Philippe Merloz, publiée par Sauramps Médical en février 2005 
+univ-grenoble-alpes.fr
++13
+Librairie Sauramps Médical
++13
+Fnac
++13
+.
+
+Une version Surgetica 2007 existe également 
+Fnac
+.
+
+Ces ouvrages forment les actes d’un congrès présentant les méthodes et systèmes de pointe en chirurgie assistée par ordinateur 
+Furet
++14
+Librairie Sauramps Médical
++14
+membres-timc.imag.fr
++14
+.
+
+3. Chirurgie du genou, tome 1 – PTG, PUC, LCA et ostéotomies
+
+Dirigé par Jocelyne Troccaz et Philippe Merloz, ce tome est paru en octobre 2008 chez Sauramps Médical 
+timc.fr
++13
+Fnac
++13
+Librairie Sauramps Médical
++13
+.
+
+Il concerne les techniques chirurgicales spécifiques au genou, notamment la prothèse totale (PTG), la prothèse unicompartimentale (PUC), les lésions du ligament croisé antérieur (LCA) et les ostéotomies.
+
+Récapitulatif des ouvrages
+Titre	Année	Éditeur / Contexte	Co-auteur(s) / Direction
+Robotique médicale (édition française)	2012	Hermes Science Publications	Sous la direction de Jocelyne Troccaz
+Medical Robotics (édition anglaise)	2012	Hermes Science Publications	Jocelyne Troccaz (éditeur)
+Gestes médico-chirurgicaux assistés par ordinateur : outils et applications – Surgetica 2005	2005	Sauramps Médical	Avec Philippe Merloz
+Surgetica 2007 (même thème)	2007	Sauramps Médical	Avec Philippe Merloz
+Chirurgie du genou, tome 1 – PTG, PUC, LCA et ostéotomies	2008	Sauramps Médical	Avec Philippe Merloz

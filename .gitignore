@@ -1,0 +1,11 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+__pycache__/
+include/
+lib/
+lib64
+bin/
+pyvenv.cfg
+.env*
+*.pgs
+*.api-keys
+generated/
