@@ -22,11 +22,13 @@ teacher_voice = "Erinome"
 student_voice = "Rasalgethi"
 
 tts_provider = "gemini"
-text_model = "llama3.3:70b"  # modèles disponibles : qwen3:32b, qwen2.5:32b, llama3.3:70b
+text_model = "meta-llama/Llama-3.3-70B-Instruct"  # Meilleur modèle texte en open-source disponible via HuggingFace
+OLLAMA_URL = None
+OLLAMA_API_KEY = os.getenv("HUGGING_FACE_API_KEY")
 
-image_model = "black-forest-labs/FLUX.1-schnell"
-image_to_text_model = "google/gemma-3-27b-it"
-tts_model = "gemini-2.5-flash-preview-tts"
+image_model = "black-forest-labs/FLUX.1-dev" # 'dev' est la version de meilleure qualité de FLUX par rapport à 'schnell'
+image_to_text_model = "meta-llama/Llama-3.2-11B-Vision-Instruct" # Modèle de vision très performant (alternatives: meta-llama/Llama-3.2-90B-Vision-Instruct, google/gemma-3-27b-it)
+tts_model = "gemini-2.5-flash-preview-tts" # Meilleur modèle TTS de la famille Gemini
 age = None
 person = None
 nb = 15

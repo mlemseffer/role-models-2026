@@ -67,29 +67,41 @@ class GeneratePodcast:
             )
             print(feedback_line.ljust(2, " "), end="\n")
             try:
-                response = self.gemini.models.generate_content(
-                    model=self.model,
-                    contents=reply[1],
-                    config=types.GenerateContentConfig(
-                        temperature=2,
-                        response_modalities=["AUDIO"],
-                        speech_config=types.SpeechConfig(
-                            voice_config=types.VoiceConfig(
-                                prebuilt_voice_config=types.PrebuiltVoiceConfig(
-                                    voice_name=(
-                                        self.teacher_voice
-                                        if reply[0] == "TEACHER_F"
-                                        else self.student_voice
+                max_retries = 3
+                for attempt in range(max_retries):
+                    try:
+                        response = self.gemini.models.generate_content(
+                            model=self.model,
+                            contents=reply[1],
+                            config=types.GenerateContentConfig(
+                                temperature=2,
+                                response_modalities=["AUDIO"],
+                                speech_config=types.SpeechConfig(
+                                    voice_config=types.VoiceConfig(
+                                        prebuilt_voice_config=types.PrebuiltVoiceConfig(
+                                            voice_name=(
+                                                self.teacher_voice
+                                                if reply[0] == "TEACHER_F"
+                                                else self.student_voice
+                                            )
+                                        )
                                     )
-                                )
-                            )
-                        ),
-                    ),
-                )
-                if idx != 0 and (idx + 1) % 4 == 0:
-                    print("Sleeping...")
-                    time.sleep(30)
-            except:
+                                ),
+                            ),
+                        )
+                        break
+                    except Exception as inner_e:
+                        if "429" in str(inner_e) and attempt < max_retries - 1:
+                            print(f"Rate limited 429... waiting 45s (Attempt {attempt+1})")
+                            time.sleep(45)
+                        else:
+                            raise inner_e
+
+                if idx != len(replies_with_voices) - 1:
+                    print("Sleeping 4s (rate limit precaution)...")
+                    time.sleep(4)
+            except Exception as e:
+                print(f"Original exception during generation: {e}")
                 self.__add_new_line_to_progress()
                 self.__add_strings_to_progress(self.dialogues[idx:])
 

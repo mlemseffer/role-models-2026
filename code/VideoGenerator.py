@@ -19,5 +19,3 @@ class VideoGenerator:
         clips = [ImageClip(img_path).with_duration(audio.duration / len(images)).with_effects([vfx.CrossFadeIn(fade_duration), vfx.CrossFadeOut(fade_duration)]).with_start(i * ((audio.duration / len(images)) - fade_duration)) for i, img_path in enumerate(images)]
         CompositeVideoClip(clips).with_fps(fps).with_audio(audio).write_videofile(output_path)
         print(f"Video saved to {output_path}")
-        
-VideoGenerator().generate("../generated/images/images", "../generated/podcasts/téléchargement.wav", 1.0, 12)

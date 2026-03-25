@@ -53,12 +53,18 @@ class AudioGenerator:
                     print(f"Saved audio to {output}")
                     return output
                 except Exception as e:
+                    print(f"Error caught: {e}")
                     match = re.search(
                         r"progress has been saved in file (\S+\.pgs)", str(e)
                     )
-                    progress_file = match.group(1).replace("\\", "/")
-                    if i != 0:
-                        sleep(30)
+                    if match:
+                        progress_file = match.group(1).replace("\\", "/")
+                    
+                    # On s'assure de toujours faire une pause entre les tentatives pour éviter le rate limit,
+                    # même s'il n'y a qu'une seule clé API (i == 0).
+                    print("Waiting 60 seconds before next attempt to reset rate limits...")
+                    sleep(60)
+                    
                     print(f"Test {i+1} failed")
                     print("Continuing generation on another test...")
                     continue
